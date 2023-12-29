@@ -1,0 +1,215 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.courses{
+    width: 100%;
+    justify-content: space-around;
+
+}
+.container{
+    background:whitesmoke;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    padding: 20px;
+    box-shadow: 1px 0px 5px 0px black;
+
+}
+.course-name{
+    display: block;
+    height: 170px;
+    width: 16.6%;
+    text-align: center;
+    line-height: 23px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 16px;
+    margin: 25px 12px;
+    color: #1f1e1e;
+    background-color: white;
+    box-shadow: 2px 0px 10px 0px black;
+    border-radius: 20px;
+
+}
+.Animation{
+    padding: 15px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+.student-topic{
+    display:flex;
+    width:100%;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+      
+}
+.choose{
+    display: block;
+    height: 400px;
+    width: 28%;
+    background-color: #F8FCE9;
+    margin: 25px 25px;
+    padding: 50px 20px;
+    box-sizing: border-box;
+    border-radius: 40px;
+   
+}
+.choose h4{
+    color: green;
+
+}
+.career{
+    display: block;
+    height: 400px;
+    width: 28%;
+    background-color: #FFF8EE;
+    margin: 25px 25px;
+    padding: 50px 20px;
+    box-sizing: border-box;
+    border-radius: 40px;
+
+}
+.career h4{
+    color: black;
+
+}
+.ratio{
+    display: block;
+    height: 400px;
+    width: 28%;
+    background-color:#EDFBFD;
+    margin: 25px 25px;
+    padding: 50px 20px;
+    box-sizing: border-box;
+    border-radius: 40px;
+
+}
+.ratio h4{
+    color: cornflowerblue;
+}
+h4{
+    font-size: 42px;
+    font-family:'Arial Bold',
+}
+h3{
+    font-size: 25px;
+}
+p{
+   font-size: 20px;
+   
+
+}
+
+
+
+
+
+.product{
+    display:flex;
+    width:100%;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+}
+.product-name{
+    display: block;
+    height: 500px;
+    width: 28%;
+    background-color: white;
+    margin: 25px 25px;
+    padding: 50px 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 1px 0px 2px 0px black;
+}
+.product-name h3{
+    display: block;
+    width: fit-content;
+    font-size: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color: #6E25D5;
+    box-sizing: border-box;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.product-name img{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+   
+.product-name h2{
+    font-size: 20px;
+}
+.product-name h1{
+    display: block;
+    color: #F15023;
+}
+
+
+
+.gradient{
+    width: 30%;
+    background-image: linear-gradient(to right, #5B86E5, #36D1DC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    );
+    display: block;
+    margin: auto;
+    height: 450px;
+    padding:30px;
+    
+   
+    
+}
+.card-name{  
+    padding: 10px 5px;
+    width: fit-content;
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px ;
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+   
+}
+  
+.card{
+    padding: 20px 10px;
+   
+}
+.card h2{
+    width: fit-content;
+    background-color: white;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px ;
+}
+   
+
+   
+   
